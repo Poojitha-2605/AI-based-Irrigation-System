@@ -18,11 +18,16 @@ This project is a data-driven smart irrigation platform that predicts the amount
 ### Home Page
 ![Home](home.png)
 
-### Input Form
-![Analysis](Analysis.png)
+### Analysis Screen (Different Input Values)
 
-### Output Result
-![Analysis](Analysis-2.png)
+**Case 1**
+![Analysis 1](Analysis.png)
+
+**Case 2**
+![Analysis 2](Analysis-2.png)
+
+### Water Budget
+![Water Budget](Water-budget.png)
 
 ## How It Works
 
