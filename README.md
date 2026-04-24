@@ -19,10 +19,10 @@ This project is a data-driven smart irrigation platform that predicts the amount
 ![Home](home.png)
 
 ### Input Form
-![Input](screenshots/input.png)
+![Analysis](Analysis.png)
 
 ### Output Result
-![Output](screenshots/output.png)
+![Analysis](Analysis-2.png)
 
 ## How It Works
 
