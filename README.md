@@ -1,5 +1,7 @@
 # 🌱 AI-Based Smart Irrigation & Water Budgeting System
 
+## 🔗 Live Demo
+[View Project](https://id-preview--65e60d33-a395-473c-a9d0-bd206ac20b26.lovable.app/)
 ## 📌 Overview
 This project is a data-driven smart irrigation platform that predicts the amount of water required for crops based on environmental conditions. It aims to improve water efficiency and support sustainable agriculture using rule-based decision techniques.
 
